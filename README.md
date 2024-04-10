@@ -30,5 +30,4 @@ This repository contains Python code for building a SMS spam classifier using Na
 - numpy
 - scikit-learn
 - matplotlib
-- seaborn
 - nltk
